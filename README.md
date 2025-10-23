@@ -1,11 +1,11 @@
 
 quiet dev on the internet ☕  
 > learning, creating, designing ✨
-<img align="right" src="https://pin.it/kmasXVfrD](https://br.pinterest.com/pin/332984966224186182/)" width="250"/>
+<img align="right" src="https://i.pinimg.com/736x/74/60/cc/7460cc3b483978bf884d5d26100e72e1.jpg" width="250"/>
 
 ---
 
-### 🧰 Experience
+###  Experience
 
 ####  Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -32,7 +32,7 @@ quiet dev on the internet ☕
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=fff)
 
-#### 📖 Learning  
+####  Learning  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift)
 
