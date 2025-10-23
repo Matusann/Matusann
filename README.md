@@ -1,6 +1,7 @@
 <img align="right" src="https://i.pinimg.com/736x/74/60/cc/7460cc3b483978bf884d5d26100e72e1.jpg" width="30%"/>
-quiet dev on the internet ☕  
-> learning, creating, designing ✨
+quiet dev on the internet ☕ <br>
+
+<summary> learning, creating, designing ✨</summary>
 
 ---
 
